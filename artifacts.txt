@@ -1,5 +1,8 @@
 artifact_log
 
-installation 03
-installation 05
-installation 07
+installation_03
+installation_04
+installation_05
+installation_07
+
+artifact_id=bi0s_ncCTF{installation_04}
