@@ -4,5 +4,3 @@ installation_03
 installation_04
 installation_05
 installation_07
-
-artifact_id=bi0s_ncCTF{installation_04}
